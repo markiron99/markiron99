@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 🤟 Peace!
 
 ✨ 이제 막 백앤드 개발자가 된 김기수 입니다 :)
